@@ -1,0 +1,10 @@
+int aaa1=1;
+int abc34562;
+char letter='a';
+int c=3;
+if (a == b){
+    print("this is a test");
+    print(c);
+    }
+else if (c >= 20)
+    print("c is bigger than 20");

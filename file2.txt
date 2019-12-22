@@ -1,0 +1,11 @@
+print ("c = ");
+print (c);
+c = 3;
+print (" ");
+array int [4];
+int f(){
+    return 2;
+}
+void g(){
+    print("ioi");
+}
